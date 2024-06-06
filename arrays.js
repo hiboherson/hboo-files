@@ -1,0 +1,1 @@
+//Arrays in JavaScript are versatile data structures that can hold multiple values of different types. They are commonly used to store collections of data such as numbers, strings, objects, or even other arrays. 
